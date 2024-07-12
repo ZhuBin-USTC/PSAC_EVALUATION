@@ -1,0 +1,12 @@
+# Build Directory
+SCI/build
+SCI/bin
+SCI/logs
+SCI/extern
+# Vim c_tags files
+SCI/c_*
+SCI/cmake/SCIConfig.cmake
+
+
+SEAL_codes/build
+.vscode/settings.json
